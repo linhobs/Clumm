@@ -1,0 +1,11 @@
+# Ignore all Jupyter notebook files
+*.ipynb
+
+# Ignore Python cache files and directories
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore IDE settings and workspace files
+.idea/
+.vscode/
